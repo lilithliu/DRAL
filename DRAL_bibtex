@@ -1,0 +1,7 @@
+@InProceedings{Liu_2019_ICCV,
+author = {Liu, Zimo and Wang, Jingya and Gong, Shaogang and Lu, Huchuan and Tao, Dacheng},
+title = {Deep Reinforcement Active Learning for Human-in-the-Loop Person Re-Identification},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+month = {October},
+year = {2019}
+}
